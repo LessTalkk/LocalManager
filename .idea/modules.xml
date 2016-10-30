@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/LocalManager.iml" filepath="$PROJECT_DIR$/LocalManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contactmodel/contactmodel.iml" filepath="$PROJECT_DIR$/contactmodel/contactmodel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/smsmodel/smsmodel.iml" filepath="$PROJECT_DIR$/smsmodel/smsmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact/contact.iml" filepath="$PROJECT_DIR$/contact/contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms/sms.iml" filepath="$PROJECT_DIR$/sms/sms.iml" />
     </modules>
   </component>
 </project>

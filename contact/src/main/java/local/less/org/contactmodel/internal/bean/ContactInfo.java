@@ -167,30 +167,6 @@ public class ContactInfo extends BaseBean {
         this.suffix = suffix;
     }
 
-    //    public String getPhoneticFirstName() {
-    //        return phoneticFirstName;
-    //    }
-    //
-    //    public void setPhoneticFirstName(String phoneticFirstName) {
-    //        this.phoneticFirstName = phoneticFirstName;
-    //    }
-    //
-    //    public String getPhoneticLastName() {
-    //        return phoneticLastName;
-    //    }
-    //
-    //    public void setPhoneticLastName(String phoneticLastName) {
-    //        this.phoneticLastName = phoneticLastName;
-    //    }
-    //
-    //    public String getPhoneticMiddleName() {
-    //        return phoneticMiddleName;
-    //    }
-    //
-    //    public void setPhoneticMiddleName(String phoneticMiddleName) {
-    //        this.phoneticMiddleName = phoneticMiddleName;
-    //    }
-
     public String getAccount_name() {
         return account_name;
     }
@@ -374,14 +350,6 @@ public class ContactInfo extends BaseBean {
         this.starred = starred;
     }
 
-    //    public boolean isEmptyInfo() {
-    //        return ContactUtil.isEmpty(nicknames) && ContactUtil.isEmpty(phoneNumbers)
-    //                && ContactUtil.isEmpty(emails) && ContactUtil.isEmpty(sips)
-    //                && ContactUtil.isEmpty(companies) && ContactUtil.isEmpty(addresses)
-    //                && ContactUtil.isEmpty(websites) && ContactUtil.isEmpty(ims)
-    //                && ContactUtil.isEmpty(events) && ContactUtil.isEmpty(notes)
-    //                && ContactUtil.isEmpty(photoes) && ContactUtil.isEmpty(relations);
-    //    }
 
     @Override
     public String toString() {

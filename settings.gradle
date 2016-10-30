@@ -1,1 +1,1 @@
-include ':app', ':smsmodel', ':contactmodel', ':base'
+include ':app', ':sms', ':contact', ':base'

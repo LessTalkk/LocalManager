@@ -1,4 +1,6 @@
-package local.less.org.contactmodel.external;
+package org.less.local.contact;
+
+import org.less.local.base.BaseFragment;
 
 /**
  * ===============================================
@@ -6,7 +8,5 @@ package local.less.org.contactmodel.external;
  * DATE : 2016/10/30 <br/>
  * DESCRIPTION :
  */
-public class ContactAction {
-
-
+public class ContactFargment extends BaseFragment{
 }
