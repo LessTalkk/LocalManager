@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LocalManager.iml" filepath="$PROJECT_DIR$/LocalManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contactmodel/contactmodel.iml" filepath="$PROJECT_DIR$/contactmodel/contactmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smsmodel/smsmodel.iml" filepath="$PROJECT_DIR$/smsmodel/smsmodel.iml" />
     </modules>
   </component>
 </project>
